@@ -30,7 +30,7 @@ proguard/
 .idea/
 
 #Protected constant file
-#WordCardProtectedConstants.java
+WordCardProtectedConstants.java
 
 #Extra jars
 gdata-analytics-2.1.jar
