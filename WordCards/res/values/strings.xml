@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word Card</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="greworld">greworld</string>
+    <string name="refresh_txt">Refresh</string>
+    <string name="word_txt">Word</string>
+    <string name="meaning_txt">Meaning</string>
+    <string name="example_txt">Example</string>
+    <string name="gre_provider_authorities">com.github.knrajago.wordcards.provider</string>
+
+</resources>
